@@ -1,0 +1,23 @@
+##
+# Copy configuration to .config and edit
+##
+
+# Bot API Token
+# Obtained after installing app (requires permission: users:read)
+#bot_token: xoxb-123-abc
+
+# Slack user to check
+# View user profile > More > Copy member ID
+#check_user:
+
+# User to send a notification to
+# email->sms services are quick-and-easy solutions
+# example:: 0123456789@msg.fi.google.com
+#notify_addr:
+
+# SMTP server/credentials to send email-based notification
+#smtp_host: smtp.gmail.com
+#smtp_port: 587
+#smtp_user:
+#smtp_pass:
+#smtp_starttls: True
